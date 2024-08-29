@@ -11,7 +11,7 @@ This project is a simple BMI (Body Mass Index) calculator implemented using HTML
 ---
 
 ## Demo
-![Screenshot (205)](https://github.com/Upendra2003/Web-Development-Projects/assets/96371563/1ac650ba-7c5f-4275-afb7-14bfbd305165)
+
 
 
 
@@ -32,7 +32,7 @@ This project is a simple BMI (Body Mass Index) calculator implemented using HTML
 1. Clone the repository or download the ZIP file.
 
 ```bash
-git clone https://github.com/Prodigy-InfoTech/Web-Development-Projects.git
+git clone https://github.com/EvansOdhams/BMI-Calculator
 ```
 
 2. Open the project folder.
